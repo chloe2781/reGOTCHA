@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDyZuNIBDmZV7Sk10KtipZiUTt06E3yryU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>415190718396</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.columbia.regotcha</string>
+	<key>PROJECT_ID</key>
+	<string>regotcha-4a4d7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>regotcha-4a4d7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:415190718396:ios:046cbfcbf5bb12e727fdb9</string>
+</dict>
+</plist>
